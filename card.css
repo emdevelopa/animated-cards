@@ -132,7 +132,7 @@ section {
 
   .cover {
     padding: 1em;
-    height: 12em; /* Reduced height on medium screens */
+     height: 25em;  /* Reduced height on medium screens */
     img {
       width: 3em;
       height: 3em;
