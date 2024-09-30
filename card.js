@@ -17,7 +17,7 @@ document.body.addEventListener("click", function (event) {
   if (!event.target.closest(".box")) {
     if (parent) {
       parent.classList.remove("current");
-      parent = null;
+      parent = null; 
     }
   }
 });
